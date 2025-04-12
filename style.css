@@ -1,5 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap');
 
+
+
+.sofia-sans-condensed-<uniquifier> {
+  font-family: "Sofia Sans Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
 .colority {
     background-color: rgba(0, 0, 0, 0);
 }
